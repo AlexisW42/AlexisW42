@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a Fullstack Developer specialized in the PHP ecosystem
 
 ### 👨‍💻 About Me
 
-- 💼 Currently working as a **Fullstack Developer** at SCR Business C.A., building custom web applications and modular platforms like the MyBroker insurance system and community control panels.
+- 💼 Currently working as a **Fullstack Developer** at SCR Business C.A., building custom web applications and modular platforms like the Segurcore insurance system and community control panels.
 - 🎓 Informatics Engineering student at the **Universidad Nacional Experimental del Táchira (UNET)**.
 - 🚀 My core stack revolves around the **TALL stack (Tailwind, Alpine, Laravel, Livewire)**.
 - 🔧 I complement my frontend with **React** and **Astro**, and build scalable backend solutions using **Go** (clean architecture), **Python** (FastAPI), and **Node.js** (Express and NestJS).
